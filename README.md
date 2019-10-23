@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Everyone！
+Hi Everyone!
 
-I am trying to learn this software,It's interesting。
-But my English is poor now ,It makes the process more difficult，I will insist！
+I am trying to learn this software,it's interesting.
+My English is poor now ,it makes the process more difficult，I will insist！
